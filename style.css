@@ -1,0 +1,126 @@
+.topbox{
+    height: 600px;
+    width:1350px;
+    background-color:#dede9a;
+    color:black;
+}
+#item1{
+    list-style-type:none;
+    text-align: left;
+    padding-left: 65px;
+    padding-top: 20px;
+    display:inline-block;
+    font-size: 25px;
+}
+#item2{
+    list-style-type:none;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 70%;
+    display:inline-block;
+}
+#item3{
+    text-align: center;
+    list-style-type:none;
+    padding-top: 50px;
+    font-size: 80px;
+}
+#item4{
+    text-align: center;
+    list-style-type:none;
+    padding-top: 20px;
+    font-size: 25px;
+}
+#item5{
+    text-align: center;
+    list-style-type:none;
+    padding-top: 20px;
+}
+.button1{
+    background-color:green;
+    color: white;
+    border-radius: 50px;
+    font-size: 25px;
+    padding: 10px;
+    margin: 15px;
+}
+#item6{
+    text-align: center;
+    list-style-type:none;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.bottombox{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+}
+.item7{
+    padding-top: 120px;
+    padding-left:180px;
+    display:inline-block;
+}
+.item8{
+    list-style-type:none;
+    padding-top: 85px;
+    padding-left:15%;
+    padding-right:25%;
+    display:block;
+
+}
+.button2{
+    background-color:green;
+    color: white;
+    border-radius: 50px;
+    font-size: 25px;
+    padding: 10px;
+    margin: 0px;
+}
+.bottombox1{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+}
+.item9{
+    padding-top: 120px;
+    padding-left:180px;
+    display:inline-block;
+}
+.item10{
+    list-style-type:none;
+    padding-top: 85px;
+    padding-left:15%;
+    padding-right:25%;
+    display:block;
+
+}
+.bottombox2{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px; 
+}
+.item11{
+    padding-top: 120px;
+    padding-left:180px;
+    display:inline-block;
+}
+.item12{
+    list-style-type:none;
+    padding-top: 85px;
+    padding-left:15%;
+    padding-right:25%;
+    display:block;
+}
+.lowbox{
+    background-color: rgb(237, 195, 202);
+}
+.item11{
+    padding-top: 20px;
+}
+
+
+
+
